@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm dr_holomorfo</h1>
+<h1 align="center">Hi 👋, I'm Cristian Bañuelos</h1>
 <span align="left">Multifaceted artist and programmer, involved in virtual reality installations, dance, music performances, video games, interactive installations, albums, and algorithmic compositions.</span>
 
 - 🔭 I’m currently working on [tonality_visualizer](https://github.com/holomorfo/tonality-visualizer)
