@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.holomorfo.com](https://www.holomorfo.com)
 
-- 💬 Ask me about **music technology, mathematics, javascript, react, python,**
+- 💬 Ask me about **music technology, mathematics, music infromation retrieval, javascript, react, python,**
 
 - ⚡ Fun fact **I love photography**
 
