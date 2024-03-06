@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **three.js**
 
-- 👨‍💻 All of my projects are available at [www.holomorfo.com](www.holomorfo.com)
+- 👨‍💻 All of my projects are available at [www.holomorfo.com](https://www.holomorfo.com)
 
 - 💬 Ask me about **javascript, react, python,**
 
